@@ -1,0 +1,10 @@
+*~
+*.swp
+*.log
+
+/docs/
+/PCB/
+
+__pycache__/
+
+!.gitignore
